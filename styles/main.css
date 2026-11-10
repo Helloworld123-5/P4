@@ -86,8 +86,8 @@ footer a:hover {
     .page-content {
         padding: 1rem;
     }
-}
+
 .card-img-top {
-    height: 180px;
+    height: 350px;
     object-fit: cover;
 }
